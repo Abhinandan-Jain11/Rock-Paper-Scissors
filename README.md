@@ -39,10 +39,6 @@ project-folder/
 * Scissors beats Paper
 * Same choices → Draw
 
-## 📸 Preview
-
-(Add screenshot here)
-
 ## 💡 Learning Outcomes
 
 * DOM Manipulation in JavaScript
